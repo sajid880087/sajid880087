@@ -56,12 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=sajid880087&show_icons=true&theme=tokyonight" alt="stats" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajid880087&theme=tokyonight" alt="streak" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid880087&layout=compact&theme=tokyonight" alt="languages" />  
-</p>  
 
 ---
 
