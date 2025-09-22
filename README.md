@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="Blue Modern Corporate Staff Profile LinkedIn Banner (1).png" alt="banner" width="100%" />
+</p>
+
 # Hi 👋, I'm Sajid Inamdar  
 
 🚀 *Aspiring Software Engineer | Python Developer | AI Enthusiast*  
@@ -8,8 +13,17 @@
 - 🎓 BCA Student passionate about **Web Development, Python, and AI**  
 - 🌱 Currently learning **Python Libraries (Flask, Pandas, NumPy, Matplotlib, Seaborn)**  
 - 💡 Love exploring **new technologies** and solving real-world problems  
-- 🔭 Check out my portfolio: [My Portfolio Website](https://sajid880087.github.io/MY_PORTFOLIO/)  
+- 🔭 Check out my portfolio below 👇  
 - 📫 Reach me at: **sajitenamdar@gmail.com**  
+
+---
+
+## 🌐 Portfolio  
+<p align="center">
+  <a href="https://sajid880087.github.io/MY_PORTFOLIO/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-1877F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -28,10 +42,16 @@
 ---
 
 ## 🔗 Connect with Me  
-<p align="left">  
-<a href="https://linkedin.com/in/sajid-inamdar-20a725355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40"/></a>  
-<a href="https://leetcode.com/u/sajid80/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40"/></a>  
-<a href="mailto:sajitenamdar@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="40"/></a>  
+<p align="center">  
+<a href="https://linkedin.com/in/sajid-inamdar-20a725355" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>  
+<a href="https://leetcode.com/u/sajid80/" target="blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/>
+</a>  
+<a href="mailto:sajitenamdar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+</a>  
 </p>  
 
 ---
