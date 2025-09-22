@@ -1,22 +1,48 @@
-![logo](https://github.com/sajid880087/sajid880087/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Sajid inamdar</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+# Hi 👋, I'm Sajid Inamdar  
 
-- 🌱 I’m currently learning **Python Library**
+🚀 *Aspiring Software Engineer | Python Developer | AI Enthusiast*  
 
-- 👨‍💻 All of my projects are available at [https://sajid880087.github.io/portfolio/](https://sajid880087.github.io/portfolio/)
+---
 
-- 💬 Ask me about **Python ,AI , Js**
+## 👨‍💻 About Me  
+- 🎓 BCA Student passionate about **Web Development, Python, and AI**  
+- 🌱 Currently learning **Python Libraries (Flask, Pandas, NumPy, Matplotlib, Seaborn)**  
+- 💡 Love exploring **new technologies** and solving real-world problems  
+- 🔭 Check out my portfolio: [My Portfolio Website](https://sajid880087.github.io/MY_PORTFOLIO/)  
+- 📫 Reach me at: **sajitenamdar@gmail.com**  
 
-- 📫 How to reach me **sajitenamdar@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sajid-inamadar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid-inamadar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sajid80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajid80" height="30" width="40" /></a>
-</p>
+## 🛠️ Languages and Tools  
+<p align="left">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>  
+</p>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🔗 Connect with Me  
+<p align="left">  
+<a href="https://linkedin.com/in/sajid-inamdar-20a725355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40"/></a>  
+<a href="https://leetcode.com/u/sajid80/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40"/></a>  
+<a href="mailto:sajitenamdar@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="40"/></a>  
+</p>  
 
+---
+
+## 📊 GitHub Stats  
+<p align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=sajid880087&show_icons=true&theme=tokyonight" alt="stats" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajid880087&theme=tokyonight" alt="streak" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid880087&layout=compact&theme=tokyonight" alt="languages" />  
+</p>  
+
+---
+
+⭐ *“Keep learning, keep building, and keep growing!”*  
